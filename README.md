@@ -9,11 +9,12 @@ This project is motivated by the following projec: [Spotify music analysis](http
 Data is taken from [Kaggle](https://www.kaggle.com/aeryan/spotify-music-analysis)</br>
 After importing the data I have analysed the correlation between the target and the features of the audio</br>
 <img src='https://github.com/touhid498/Spotify-Music-Feature-Analysis/blob/main/IMG/img1.PNG'>
-<img src='https://github.com/touhid498/Spotify-Music-Feature-Analysis/blob/main/IMG/img2.PNG'>
+<img src='https://github.com/touhid498/Spotify-Music-Feature-Analysis/blob/main/IMG/img2.PNG'></br>
 The following heatmap shows the correlation and the value</br>
 </br>
-<img src='https://github.com/touhid498/Spotify-Music-Feature-Analysis/blob/main/IMG/img3.PNG'>
+<img src='https://github.com/touhid498/Spotify-Music-Feature-Analysis/blob/main/IMG/img3.png'>
 </br>
+I have used 80% data for training and rest for testing. Then I have used three classification model which are Decision Tree, K nearest neighbour and Random forest classification model and their prediction accuracy were 68.4%, 69.4% and 76.5% respectively.
 
 ## Table of Content
 ## Packages and Software
