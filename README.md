@@ -10,6 +10,9 @@ Data is taken from [Kaggle](https://www.kaggle.com/aeryan/spotify-music-analysis
 After importing the data I have analysed the correlation between the target and the features of the audio</br>
 <img src='https://github.com/touhid498/Spotify-Music-Feature-Analysis/blob/main/IMG/img1.PNG'>
 <img src='https://github.com/touhid498/Spotify-Music-Feature-Analysis/blob/main/IMG/img2.PNG'>
+The following heatmap shows the correlation and the value</br>
+</br>
+<img src='https://github.com/touhid498/Spotify-Music-Feature-Analysis/blob/main/IMG/img3.PNG'>
 </br>
 
 ## Table of Content
