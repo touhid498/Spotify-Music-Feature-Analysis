@@ -17,8 +17,11 @@ The following heatmap shows the correlation and the value</br>
 I have used 80% data for training and rest for testing. Then I have used three classification model which are Decision Tree, K nearest neighbour and Random forest classification model and their prediction accuracy were 68.4%, 69.4% and 76.5% respectively.
 
 ## Table of Content
-## Packages and Software
+Dependency
 -Seaborn</br>
+## Limitations
+I have not checked for the best parameters for the model. So, my accuracy data is not optimized.
+## Packages and Software
 -Sklearn</br>
 -Numpy</br>
 -Panda</br>
