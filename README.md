@@ -19,6 +19,7 @@ I have used 80% data for training and rest for testing. Then I have used three c
 ## Table of Content
 Dependency
 -Seaborn</br>
+[Packages](https://github.com/touhid498/Spotify-Music-Feature-Analysis/blob/main/README.md#packages-and-software)
 ## Limitations
 I have not checked for the best parameters for the model. So, my accuracy data is not optimized.
 ## Packages and Software
